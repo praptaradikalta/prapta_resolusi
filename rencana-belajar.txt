@@ -1,0 +1,6 @@
+Rencana Belajar Prapta :
+
+- Belajar Git
+- Belajar Pemrograman Dart
+- Belajar Flutter
+- Belajar Figma
