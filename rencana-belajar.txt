@@ -1,6 +1,33 @@
 Rencana Belajar Prapta :
 
 - Belajar Git
+ ^ Mengenal Git & GitHub
+ ^ Mempelajari GitHub dan Cara Kerjanya.
+ ^ Mempelajari Git dan Cara Kerja Git.
+ ^ Multiple Remote
+ 
 - Belajar Pemrograman Dart
+  ^ Learn the Basics of Dart
+    - Variables
+    - Functions
+    - Operators
+    - Control Flow Statements
+
 - Belajar Flutter
-- Belajar Figma
+  ^ Setup Development Environment
+    - IDEs = VS Code, Android Studio, IntelliJ Idea
+
+  ^ Widgets
+    - Responsive Widgets
+    - Inherited Widgets
+    - Stateless Widgets
+    - Stateful Widgets
+ 
+    material.io
+    Material Widgets
+
+  ^ Working with Assets
+    - Fonts
+    - Images
+    - Other File Typtes
+    
