@@ -1,7 +1,7 @@
 Prapta Resolusi :
 - Konsisten belajar materi pemrograman dengan Waktu 6 jam dalam sepekan
-- Mengikuti arahan Mentor di Discord Hsi 2.0 
 - Membuat Aplikasi Mobile Kisaran Mengaji
 - Membuat Aplikasi Mobile Warung Bakso.
 - Menyelesaikan belajar figma dasar dari BWA
 - Belajar Web Programming Dasar (HTML, CSS, dn JavaScript)
+- Berkontribusi di Divisi IT Hsi Abdullah Roy
