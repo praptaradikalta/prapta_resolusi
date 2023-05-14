@@ -9,12 +9,14 @@ Rencana Belajar Prapta :
 - Belajar Pemrograman Dart
   ^ Learn the Basics of Dart
     - Pengenalan Dart
+    - Variable
     - Functions
     - Operators
     - Control Flow Statements
-    - Collections
-    - Dart Type System
-
+    - OOP
+    - Perulangan
+    - Collection
+   
 - Belajar Flutter
   ^ Setup Development Environment
     - IDEs = VS Code, Android Studio, IntelliJ Idea
