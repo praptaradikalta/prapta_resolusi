@@ -12,6 +12,10 @@ Rencana Belajar Prapta :
     - Functions
     - Operators
     - Control Flow Statements
+    - OOP
+    - Perulangan
+    - Collection
+   
 
 - Belajar Flutter
   ^ Setup Development Environment
