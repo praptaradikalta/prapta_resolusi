@@ -14,6 +14,7 @@ Rencana Belajar Prapta :
     - Control Flow Statements
     - OOP
     - Perulangan
+    - Collection
    
 
 - Belajar Flutter
