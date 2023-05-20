@@ -1,0 +1,61 @@
+RoadMaps belajar flutter di hsi
+
+Learn the Basics of Dart
+1. Variables
+2. Functions
+3. Operators
+4. Control Flow Statement
+
+Setup Development Enviroment
+1.IDEs    : VSCOde
+	  : Android Studio
+	  : IntelliJ Idea
+	  
+2.Widgets : Stateless Widgets
+          : Stateful Widgets
+          : Responsive Widgets
+          : Material io
+          : Material Widgets
+
+3.Working with Assets
+	  : Fonts
+	  : Images
+	  : Other File Types
+
+4.Version Control Systems
+	  : Git
+
+5.Repo Hosting Services
+	  : Github /Gitlab
+	  
+6.Design Principles
+	  : Get it
+	  : Dependency Injection
+	  : Design Patterns
+	  : SOLID Principles
+	  : OOP
+	  
+7.Package Manager
+	  : pub.dev	  
+
+8.Working with APIs
+	  : JSON Serialize/Deserialize
+	  : RESTful APis
+
+9.Storage 
+	  : Hive
+	  : Shared Preferences
+	  : Firebase (piihan)
+
+10. Advance Dart 
+	  : List
+	  : Collections
+	  : Lambdos
+	  : Async/Await
+	  : Futures
+	  
+11. State Management : BloC
+
+	  
+	 
+	 
